@@ -3,7 +3,7 @@
     "appName" : "WinZO Games",
     "packageName" : "",
     "adPriority": "Admob",
-    "showAdmob" : "1",
+    "showAdmob" : "0",
     "showFb" : "0",
     "G_appId": "ca-app-pub-1291919796886141~1081805000",
     "G_banner": "ca-app-pub-1291919796886141/8187119466",
